@@ -1,0 +1,7 @@
+CID1,Shirt
+CID2,OuterWear
+CID3,Shorts
+CID4,Pants
+CID5,Shoes
+CID6,Caps
+CID7,UpperWear

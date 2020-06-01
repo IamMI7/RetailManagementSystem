@@ -1,0 +1,9 @@
+PR1,Shirt1,80.0,CID1,Shirt,Chee kin,5,SU1
+PR2,Caps1,20.0,CID6,Caps,52fds,3,SU1
+PR3,Caps2,30.0,CID6,Caps,52fds,3,SU1
+PR4,Cap3,35.0,CID6,Caps,52fds,3,SU1
+PR5,Skechers,1000.00,CID5,Shoes,Happiness,3,SU1
+PR6,PADINISHIRT,200.00,CID1,Shirt,Good,5,SU1
+PR7,Jeans Women,246.00,CID4,Pants,Good,5,SU1
+PR8,444,444,CID1,Shirt,444,444,SU1
+PR9,Potato,123,CID1,Shirt,123,123,SU1
